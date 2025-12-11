@@ -90,6 +90,6 @@ function App() {
 ## 🔗 Check out the Code
 Interested in seeing the full implementation? Check out the GitHub repository below!
 
-👉 **GitHub Link**: https://github.com/techverito/react-vite-microfrontends-demo
+👉 **GitHub Link**: https://github.com/iamtango/micro-frontend-demo
 
 #MicroFrontends #ReactJS #Vite #WebDevelopment #Architecture #Coding #SoftwareEngineering
